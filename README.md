@@ -5,7 +5,7 @@
 
 ![joaoPGoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoPGoliveira&shadow_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPGoliveira&size_weight=0.5&count_weight=0.5_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPGoliveira&size_weight=0.5&count_weight=0.5_theme=dark)
 
 ## Tecnologias que uso no dia a dia
 
