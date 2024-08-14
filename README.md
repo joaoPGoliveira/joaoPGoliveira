@@ -1,9 +1,6 @@
 ### Olá, eu sou o João Pedro Gomes!
 
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-gomes-de-oliveira/)
-
-![joaoPGoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoPGoliveira&shadow_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoPGoliveira&size_weight=0.5&count_weight=0.5)
 
